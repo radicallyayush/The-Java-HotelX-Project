@@ -9,6 +9,8 @@ TOPIC: HotelX - Hotel Exchange
 
 AIM: To provide for a better system to book hotels @ cheaper prices and to disrupt the existing system of Fixed price Booking by using the Floating/Demand-Supply Exchange Operation, similar to Equity Stock Exchanges.
 
+Project DEMO VIDEO: https://gifted-meitner-56ed56.netlify.app/
+
 Concepts Illustrated:
 * Abstraction- Classes.
 * Scope and Lifetime of variables.
@@ -18,16 +20,16 @@ Concepts Illustrated:
 * 'this' keyword.
 * Inheritance.
 * Overloading (Constructors)
-Overriding.
-Objects as parameters.
-Access control mechanism.
-Use of 'super'.
-Packages.
-Interfaces.
-Exception Handling.
-Creation of thread to execute a certain process.
-Few string handling mechanisms.
-Usage of URI.
+* Overriding.
+* Objects as parameters.
+* Access control mechanism.
+* Use of 'super'.
+* Packages.
+* Interfaces.
+* Exception Handling.
+* Creation of thread to execute a certain process.
+* Few string handling mechanisms.
+* Usage of URI.
 
 The program is divided into two files in two packages in order to illustrate the concept of Packages in Java.
 
