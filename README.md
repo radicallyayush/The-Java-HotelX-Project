@@ -1,4 +1,4 @@
-# The-Java-HotelX-Project
+# The-Java-HotelX-Project - DEMO LINK: https://gifted-meitner-56ed56.netlify.app/
 This is a JAVA Project designed for Bidding/ Trading Hotel Rooms on the HotelX Bidding System designed during my Sophomore Year as a part of the OOP Java course @ NIE Mysore.
 
 Course Code: IS4C04
@@ -36,3 +36,5 @@ The program is divided into two files in two packages in order to illustrate the
 Project Conclusion: This project successfully completes its 2 primary objectives
 * 1) Enables User to BID for Lower prices
 * 2) Clears Hotel Inventories in Bulk, thus enhancing Room occupancy.
+
+Finally, it can be said that this JAVA project can be exponentially scaled up by integrating Latest technologies and Frameworks for Deployment across millions of hotel rooms across the globe.
