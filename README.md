@@ -39,6 +39,9 @@ Project Conclusion: This project successfully completes its 2 primary objectives
 
 Finally, it can be said that this JAVA project can be exponentially scaled up by integrating Latest technologies and Frameworks for Deployment across millions of hotel rooms across the globe.
 
+ 
+<-ADDITIONAL FOOTNOTES->
 
-EPILOGUE & Working :
+
+Project Epilogue :
 Everyday millions of hotel rooms go unsold, thus creating huge inventory losses for both hotels and the hotel industry. Consequently, customers complain about high prices of hotel rooms. This problem is totally avoidable, inspired by the stock market where everything is influenced by demand and supply. HotelX or HotelExchange is a bidding platform for hotels and travel agents where hotel rooms are bid on a daily basis. Using JAVA, we would accept bids from travel agents and automatically accept the highest bid, thus creating a smooth bidding process. Finally, after payment of 50% of the bid amount, the program will display the invoice/booking details of winning bid on the console. This marks the end of the bidding process. Thus, both hotels and customers get the best deals.
