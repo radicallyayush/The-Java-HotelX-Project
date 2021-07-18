@@ -10,14 +10,14 @@ TOPIC: HotelX - Hotel Exchange
 AIM: To provide for a better system to book hotels @ cheaper prices and to disrupt the existing system of Fixed price Booking by using the Floating/Demand-Supply Exchange Operation, similar to Equity Stock Exchanges.
 
 Concepts Illustrated:
-Abstraction- Classes.
-Scope and Lifetime of variables.
-Declaring objects.
-Instance Variables of different data types.
-Constructors/Methods.
-'this' keyword.
-Inheritance.
-Overloading (Constructors)
+* Abstraction- Classes.
+* Scope and Lifetime of variables.
+* Declaring objects.
+* Instance Variables of different data types.
+* Constructors/Methods.
+* 'this' keyword.
+* Inheritance.
+* Overloading (Constructors)
 Overriding.
 Objects as parameters.
 Access control mechanism.
