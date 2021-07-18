@@ -33,4 +33,6 @@ Concepts Illustrated:
 
 The program is divided into two files in two packages in order to illustrate the concept of Packages in Java.
 
-Project Conclusion:
+Project Conclusion: This project successfully completes its 2 primary objectives
+* 1) Enables User to BID for Lower prices
+* 2) Clears Hotel Inventories in Bulk, thus enhancing Room occupancy.
