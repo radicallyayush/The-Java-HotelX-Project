@@ -1,4 +1,4 @@
-# The-Java-HotelX-Project - DEMO LINK: https://gifted-meitner-56ed56.netlify.app/
+# The-Java-HotelX-Project - DEMO LINK: https://vimeo.com/576629959
 This is a JAVA Project designed for Bidding/ Trading Hotel Rooms on the HotelX Bidding System designed during my Sophomore Year as a part of the OOP Java course @ NIE Mysore.
 
 Course Code: IS4C04
@@ -9,7 +9,7 @@ TOPIC: HotelX - Hotel Exchange
 
 AIM: To provide for a better system to book hotels @ cheaper prices and to disrupt the existing system of Fixed price Booking by using the Floating/Demand-Supply Exchange Operation, similar to Equity Stock Exchanges.
 
-Project DEMO VIDEO: https://gifted-meitner-56ed56.netlify.app/
+Project DEMO VIDEO: https://vimeo.com/576629959
 
 Concepts Illustrated:
 * Abstraction- Classes.
